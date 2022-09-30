@@ -28,6 +28,11 @@ go run main.go -h
 ```bash
 go run main.go -k phpinfo
 ```
+or 
+```bash
+hvr -k phpinfo
+```
+
 ![image](https://user-images.githubusercontent.com/103000400/193346850-5a3b0fde-72b0-43c8-997f-3170e0a72249.png)
 
 فقط تقارير خاصه بثغرة phpinfo
