@@ -1,6 +1,10 @@
 # hvr
 
 install
+```bash
+go install github.com/secgo/hvr@latest
+```
+or
 ```
 go get github.com/secgo/hvr/
 ```
